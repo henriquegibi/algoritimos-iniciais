@@ -1,4 +1,4 @@
-Algoritmo "terreno"
+Algoritmo "problema terreno"
 // Disciplina  : Estrutura sequencial
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua

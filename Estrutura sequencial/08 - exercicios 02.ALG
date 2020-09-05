@@ -1,8 +1,8 @@
-Algoritmo "problema idade"
+Algoritmo "exercicios 02"
 // Disciplina  : Estrutura sequencial
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua
-// Data atual  : 04/09/2020
+// Data atual  : 05/09/2020
 Var
 // Seção de Declarações das variáveis 
 

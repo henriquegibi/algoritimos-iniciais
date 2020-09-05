@@ -1,7 +1,7 @@
 Algoritmo "retangulo"
 // Disciplina  : Estrutura sequencial
 // Professor   : Nélio Alves
-// Aluno       : Henrique Gibi de Pádua)
+// Aluno       : Henrique Gibi de Pádua
 // Data atual  : 02/09/2020
 Var
    base, altura, area, perimetro, diagonal : real

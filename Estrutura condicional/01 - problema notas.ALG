@@ -1,5 +1,5 @@
 Algoritmo "problema notas"
-// Disciplina  : Estrutura sequencial
+// Disciplina  : Estrutura condicional
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua
 // Data atual  : 12/09/2020

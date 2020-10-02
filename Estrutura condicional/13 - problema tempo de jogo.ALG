@@ -22,6 +22,6 @@ Inicio
       fimse
    fimse
 
-   escreval("O JOGO DUROU",duracao," HORAS")
+   escreval("O JOGO DUROU",duracao," HORA(S)")
 
 Fimalgoritmo

@@ -1,5 +1,5 @@
 Algoritmo "media idade"
-// Disciplina  : Estruturas de repetição
+// Disciplina  : Estruturas de repetição enquanto
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua
 // Data atual  : 02/10/2020

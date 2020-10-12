@@ -24,9 +24,9 @@ Inicio
       escreva("Peso 5: ")
       leia(z)
       
-      media <- ((x * 2)+(y * 3)+(z * 5))/10
+      media <- ((x * 2) + (y * 3) + (z * 5))/10
       
-      escreval("MEDIA = ", media)
+      escreval("MEDIA = ", media:3:1)
       escreval()
 
    fimpara

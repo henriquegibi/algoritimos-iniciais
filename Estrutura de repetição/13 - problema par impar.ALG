@@ -14,13 +14,17 @@ Inicio
    
    escreva("Quantos números você vai digitar? ")
    leia(n)
+   escreval()
    
    para i de 1 ate n faca
 
       escreva("Digite um numero: " )
       leia(x)
 
-      se x <> 0 entao
+      se x = 0 entao
+         escreval("NULO")
+         escreval()
+      senao
          se x % 2 = 0 entao
             polaridade <- "PAR"
          senao
@@ -30,17 +34,12 @@ Inicio
          se x > 0 entao
             classe <- "POSITIVO"
          senao
-            se x < 0 entao
-               classe <- "NEGATIVO"
-            fimse
+            classe <- "NEGATIVO"
          fimse
 
          escreval(polaridade, " ", classe)
          escreval()
 
-      senao
-         escreval("NULO")
-         escreval()
       fimse
 
    fimpara

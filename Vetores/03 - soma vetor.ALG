@@ -35,7 +35,7 @@ Inicio
    fimpara
    
    escreval("SOMA = ", soma:3:2)
-   escreval("MEDIA = ", soma / 4)
+   escreval("MEDIA = ", (soma / 4):3:2)
 
 
 Fimalgoritmo

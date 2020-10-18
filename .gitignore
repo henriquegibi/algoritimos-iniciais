@@ -1,7 +1,6 @@
-# Ignorando a pasta com os algor´tmos em Java
+# Ignorando a pasta com os algorítmos em Linguagens em especial.
+# Cada pasta terá seu próprio versionamento.
 
-JavaAlgoritmos/
-JavaAlgoritmos/*
 AlgJava/
 AlgJava/*
 AlgPython/

@@ -14,6 +14,8 @@ Inicio
    escreval()
    
    maior <- 0.0
+   posi <- 0
+   
    para i de 0 ate n - 1 faca
       escreva("Digite um numero: ")
       leia(vet[i])

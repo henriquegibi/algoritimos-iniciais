@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "soma vetores"
 // Disciplina  : Vetores
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua

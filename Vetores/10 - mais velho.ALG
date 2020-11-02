@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "mais velho"
 // Disciplina  : Vetores
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua

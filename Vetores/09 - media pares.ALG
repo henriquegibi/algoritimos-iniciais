@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "media pares"
 // Disciplina  : Vetores
 // Professor   : Nélio Alves
 // Aluno       : Henrique Gibi de Pádua

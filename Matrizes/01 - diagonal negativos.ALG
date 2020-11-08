@@ -1,7 +1,7 @@
 Algoritmo "diagonal negativos"
 // Disciplina  : Matrizes
 // Professor   : Nélio Alves
-// Aluno       : Henrique Gibi de Páduaa)
+// Aluno       : Henrique Gibi de Pádua
 // Data atual  : 07/11/2020
 Var
    n, i, j, negativos : inteiro

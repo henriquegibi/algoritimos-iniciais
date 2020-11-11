@@ -20,9 +20,9 @@ Inicio
    fimpara
    
    escreval("MAIOR ELEMENTO DE CADA LINHA:")
-   para j de 0 ate (n - 1) faca
+   para i de 0 ate (n - 1) faca
       maior <- 0
-      para i de 0 ate (n - 1) faca
+      para j de 0 ate (n - 1) faca
          se mat[i, j] > maior entao
             maior <- mat[i, j]
          fimse
